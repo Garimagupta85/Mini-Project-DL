@@ -1,5 +1,5 @@
 # Mini-Project-DL
-![Resnet](Screen Shot 2022-11-12 at 9.52.50 PM.png)
+![Resnet](resnet.png)
 
 | Hyperparameters   |   | Validation accuracy  |
 | :---        |    :----:   |          ---: |
