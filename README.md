@@ -1,5 +1,5 @@
 # Mini-Project-DL
-|    |  Validation accuracy |  |
+| Hyperparameters   |  Validation accuracy |  |
 | :---        |    :----:   |          ---: |
-|     |     |    |
+|   C~in  |     |    |
 |    |         |    |
