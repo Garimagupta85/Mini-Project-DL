@@ -4,7 +4,10 @@
 Original model's parameters list:
 
 
-| Hyperparameters   |   | Validation accuracy  |
-| :---        |    :----:   |          ---: |
-|   C<sub>in</sub>  | C<sub>in</sub>    |    |
-|    |         |    |
+We tried the following sets of hyperparameters for 100 epochs each.
+
+
+| Hyperparameters    |                     |               | Validation accuracy  |
+| :---               |      :----:         |   :----:      |        ---:          |
+|   C<sub>in</sub>   |  C<sub>out</sub>/ F |               |                      | 
+|                    |                     |               |                      |
