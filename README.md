@@ -27,7 +27,7 @@ Original model's parameters list:
 We tried the following sets of hyperparameters for 100 epochs each.
 
 
-| Block  |      No of Conv2d Layers  |        C<sub>in</sub>       |   F<sub>in</sub>   | K<sub>in</sub> | P | Learning rate | OPtimizer | epochs| Validation accuracy  |
+| Block  |      No of Conv2d Layers  |        C<sub>in</sub>       |   F<sub>in</sub>   | K<sub>in</sub> | P | Learning rate | OPtimizer | epochs| Test accuracy  |
 | :---               |      :----:         |   :----:      |        :----:       | :----:   |    :----:        |      :----:         |   :----:      |   :----:  |      ---:          |
 | Conv1| |  1 Conv2d              |                      | 
 |     layer1             |    4 Conv2d                 |               |                      |
