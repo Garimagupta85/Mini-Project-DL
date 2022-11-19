@@ -3,14 +3,17 @@
 
 Original model's parameters list:
 
-| Block  |      No of Conv2d Layers  |        C<sub>in</sub>       |   F<sub>in</sub>   | K<sub>in</sub> | P | 
-| :---           | :----:   |    :----:        |      :----:      |   :----:  |      ---:          |
-| Conv1| |  1 Conv2d              |                      | 
-|     layer1             |    4 Conv2d                 |               |                      |
-|     layer2             |    4 Conv2d                 |               |                      |
-|     layer3             |    4 Conv2d                 |               |                      |
-|     layer4             |    4 Conv2d                 |               |                      |
-|     linear             |    1 linear layer          |                |                      |
+| Block          |      No of Conv2d Layers    |        C<sub>in</sub>       |   F<sub>in</sub>   | K<sub>in</sub> | P          |  
+| :---           | :----:                      |    :----:                   |      :----:        |   :----:       |      ---:  |
+| Conv1          | 1 Conv2d                    |       3                      |       64             |    3            |            |
+|     layer1     |    4 Conv2d (1)               |       64                     |          64              | 3
+|     layer1     |    4 Conv2d (2)              |       64                  |          64            | 3
+|     layer1     |    4 Conv2d (3)               |       64                     |     64                 | 3
+|     layer1     |    4 Conv2d (4)              |       64                    |        64              | 3
+|     layer2     |    4 Conv2d                 |                             |                      |
+|     layer3     |    4 Conv2d                 |                             |                      |
+|     layer4     |    4 Conv2d                 |                             |                      |
+|     linear     |    1 linear layer           |                             |                      |
 
 
 
