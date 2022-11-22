@@ -1,6 +1,6 @@
 # Mini-Project-DL
 
-The final code is in [submission](https://github.com/Garimagupta85/Mini-Project-DL/blob/main/submission.ipynb) file. The notebook conataints the enitre code with the requirent installations. Please run the entire notebook to replicate the results. 
+The final code is in [submission](https://github.com/Garimagupta85/Mini-Project-DL/blob/main/submission.ipynb) file. The notebook contains the enitre code with the requirent installations. Please run the entire notebook to replicate the results. 
 
 To run the configurations tested in the project run the notebooks in the [configs](https://github.com/Garimagupta85/Mini-Project-DL/tree/main/configs) folder. The folder contents files for both SGD and Adam optimizers. 
 
